@@ -3,7 +3,7 @@
 This repository accompanies [*Pro ASP.NET Core 3*](https://www.apress.com/9781484254394) by Adam Freeman (Apress, 2020).
 
 [comment]: #cover
-![Cover image](9781484254394.jpg)
+![Cover image](coverPage.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
